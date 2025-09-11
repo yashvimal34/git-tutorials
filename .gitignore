@@ -1,5 +1,5 @@
 node_modules/
 .env
 *.log
-!three.log
+!data.log
 services.html
