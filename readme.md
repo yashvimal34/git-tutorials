@@ -10,5 +10,3 @@ Thank You !!
 
 
 I have changed in Python file which is main.py you can go check it out
-
-I want to tell you something that in this project whatever we created it's going to be very useful 
